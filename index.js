@@ -19,7 +19,7 @@ function addToSequence(){
     setTimeout(()=>{
         buttonSound(color)
         buttonAnimation(color)
-    },400)
+    },500)
    
     index=0;
 }
